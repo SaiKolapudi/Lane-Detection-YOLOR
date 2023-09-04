@@ -3,6 +3,9 @@
 ## Description
 Real-time lane detection in video streams using YOLOR and OpenCV. Features ROI selection, Canny Edge Detection, and Hough Line Transform for accurate lane identification.
 
+## Demo
+![Demo GIF](videos/1.gif)
+
 ## Features
 
 - Region of Interest (ROI) selection for lane detection
