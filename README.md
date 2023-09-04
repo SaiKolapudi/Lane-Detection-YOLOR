@@ -22,5 +22,5 @@ pip install -r requirements.txt
 
 ## Usage
 The primary code file is lane_detection_base.py. You can run this script as follows:
-python lane_detection_base.py
+python Lane-Detection-YOLOR/lane_detection_base.py
 
